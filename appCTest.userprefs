@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{02EB2F5E-A2FA-461D-B559-8D4C2EA6EE2D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appCTest/appCTestPage.xaml">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="13" Column="24" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Droid/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="appCTest/appCTestPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="appCTest/appCTestPage.xaml" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.appCTest.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.appCTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.230D37E3-6E7C-4A9E-8855-56A213438CF6" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
